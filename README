@@ -18,6 +18,8 @@ There is no UI for enabling extensions yet, so you will have to:
 
 But that's really it! That's all you have to do!
 
+Oh, and make sure foobar.txt in your board root is writable.
+
 ## License
 
 GPLv2 of course, just as phpBB3.
